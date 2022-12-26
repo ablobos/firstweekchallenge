@@ -5,6 +5,8 @@ Project is to focus on code refactoring in web development. In this project, " a
 
 
 ## The Creation
+https://ablobos.github.io/captainhoriseon_refactorepisode/ 
+
 ## Sneak Peek
 ## Sources
 1. Zoom meeting recordings
