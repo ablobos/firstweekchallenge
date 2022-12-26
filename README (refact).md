@@ -8,6 +8,8 @@ Project is to focus on code refactoring in web development. In this project, " a
 https://ablobos.github.io/captainhoriseon_refactorepisode/ 
 
 ## Sneak Peek
+![horiseon screenshot](https://user-images.githubusercontent.com/117130907/209587886-41e1796c-be7e-49d9-bef9-037ceaab124f.png)
+
 ## Sources
 1. Zoom meeting recordings
 2. Udemy @ Dr. Angela Yu
